@@ -820,6 +820,10 @@ public final class app/revanced/patches/stocard/layout/HideStoryBubblesPatchKt {
 	public static final fun getHideStoryBubblesPatch ()Lapp/revanced/patcher/patch/ResourcePatch;
 }
 
+public final class app/revanced/patches/slopes/misc/premium/UnlockePremiumKt {
+	public static final fun unlockPremiumPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/strava/subscription/UnlockSubscriptionPatchKt {
 	public static final fun getUnlockSubscriptionPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
