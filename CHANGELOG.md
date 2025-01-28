@@ -36,6 +36,25 @@
 * **YouTube - Theme:** Add option to use custom seekbar accent color ([#4337](https://github.com/notmarek/revanced-patches/issues/4337)) ([952b4fc](https://github.com/notmarek/revanced-patches/commit/952b4fc4c9291e1a3e71437b503857763c973dd4))
 * **YouTube:** Add patch `Disable HDR video` ([#4347](https://github.com/notmarek/revanced-patches/issues/4347)) ([0528f7c](https://github.com/notmarek/revanced-patches/commit/0528f7cad856a2b1347e41944167b0583fc4a3d9))
 
+# [5.10.0](https://github.com/notmarek/revanced-patches/compare/v5.9.0...v5.10.0) (2025-01-28)
+
+
+### Bug Fixes
+
+* **YouTube - Hide layout components:** Hide new kind of community post ([#4341](https://github.com/notmarek/revanced-patches/issues/4341)) ([02685c4](https://github.com/notmarek/revanced-patches/commit/02685c4567aca55f22d45dc238a7d1f0ea264143))
+* **YouTube - Hide seekbar:** Do not hide player seekbar if hide feed seekbar is enabled ([#4333](https://github.com/notmarek/revanced-patches/issues/4333)) ([f5cf6f2](https://github.com/notmarek/revanced-patches/commit/f5cf6f2a445492d33815a9772f49deac2d70eba9))
+* **YouTube - Hide video description components:** Use correct string key names ([0f28c2b](https://github.com/notmarek/revanced-patches/commit/0f28c2b44c0051ea7ab3136433b84c73321cf5bd))
+* **YouTube - Theme:** Fix 19.25 - 19.45 patch error ([5b47a5f](https://github.com/notmarek/revanced-patches/commit/5b47a5f0f6299daaae209341064fd85f16ca18a6))
+* **YouTube - Theme:** Replace custom seekbar gradient colors instead of disabling ([#4329](https://github.com/notmarek/revanced-patches/issues/4329)) ([f03da98](https://github.com/notmarek/revanced-patches/commit/f03da983051021e0c372557a5354d5d967409564))
+
+
+### Features
+
+* **YouTube - Hide ads:** Add `Hide end screen store banner` ([#4351](https://github.com/notmarek/revanced-patches/issues/4351)) ([5505087](https://github.com/notmarek/revanced-patches/commit/55050878028fed82b0f583a9f7ba06b8f267f8ec))
+* **YouTube - Hide video description components:** Add `Hide How this content was made section` ([#4355](https://github.com/notmarek/revanced-patches/issues/4355)) ([68ec54e](https://github.com/notmarek/revanced-patches/commit/68ec54ef850ae8d6461dd0ef2846e6efbb59e482))
+* **YouTube - Theme:** Add option to use custom seekbar accent color ([#4337](https://github.com/notmarek/revanced-patches/issues/4337)) ([952b4fc](https://github.com/notmarek/revanced-patches/commit/952b4fc4c9291e1a3e71437b503857763c973dd4))
+* **YouTube:** Add patch `Disable HDR video` ([#4347](https://github.com/notmarek/revanced-patches/issues/4347)) ([0528f7c](https://github.com/notmarek/revanced-patches/commit/0528f7cad856a2b1347e41944167b0583fc4a3d9))
+
 # [5.10.0-dev.1](https://github.com/notmarek/revanced-patches/compare/v5.9.0...v5.10.0-dev.1) (2025-01-27)
 
 
